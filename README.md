@@ -1,3 +1,6 @@
+## Added by Rich - Single webpack bundle output
+"build:dev": "npm run build:react && npm run build:bundle"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
